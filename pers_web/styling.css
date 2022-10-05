@@ -1,0 +1,132 @@
+@import url('https://fonts.googleapis.com/css2?family=Otomanopee+One&display=swap');
+body{
+    padding: 0;
+    margin: 0;
+    background: url(background.jpg) no-repeat;
+    background-size: cover;
+}
+.box{
+    width: 450px;
+    background: rgba(0,0,0,0.4);
+    padding: 40px;
+    text-align: center;
+    margin: auto;
+    margin-top: 5%;
+    color: white;
+    font-family: 'Otomanopee One';
+    margin-bottom: 8%;
+}
+.profile-pic{
+    border-radius: 30%;
+    width: 200px;
+    height: 200px;
+}
+.box h1{
+    font-size: 40px;
+    letter-spacing: 2px;
+    font-weight: 100;
+    color:lawngreen;
+}
+.box h6{
+    font-size: 20px;
+    color:orangered;
+}
+.box p{
+    text-align: justify;
+}
+ul{
+    margin: 0;
+    padding: 0;
+}
+.box li{
+    display: inline-block;
+    margin: 6px;
+    list-style: none;
+}
+.box li a{
+    color: white;
+    font-size: 50px;
+}
+.nav-bar ul{
+    margin:0;
+}
+
+.nav-bar li{
+    display: inline;
+}
+
+.nav-bar a{
+    display: inline-block;
+    padding: 5px;
+    color:white;
+    font-family: "Otomanopee One";
+    background-color: lightseagreen;
+}
+
+.pics{
+    border-radius: 30%;
+    width: 200px;
+}
+
+.inter{
+    text-align: center;
+    margin: auto;
+    margin-top: 5%;
+    font-family: "Otomanopee One";
+    background: rgba(0,0,0,0.5);
+    color: white;
+    width: 700px;
+    padding: 40px;
+    margin-bottom: 8%;
+}
+
+.inter p{
+    color:lightpink;
+    text-align: justify;
+}
+
+.inter h3{
+    color:maroon;
+}
+
+h2 {
+    text-align: center;
+    font-size: 40px;
+    font-family: "Otomanopee One";
+    color:mediumslateblue;
+}
+
+.hobby {
+    text-align:center;
+    margin: auto;
+    font-family: "Otomanopee One";
+    width: 500px;
+    background: rgba(0,0,0,0.6);
+    color: white;
+    padding: 30px;
+    margin-bottom: 8%;
+}
+
+.hobby p{
+    text-align: justify;
+    color: lightpink;
+}
+
+.hobby h3{
+    color: maroon;
+}
+
+.skill {
+    text-align: center;
+    margin: auto;
+    font-family: "Otomanopee One";
+    width: 200px;
+    background: rgba(0,0,0,0.65);
+    color: white;
+    padding: 20px;
+    margin-bottom: 8%;
+}
+
+.skill h3{
+    color: lime;
+}
